@@ -1,4 +1,4 @@
-/* All */
+/* all */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -9,7 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Navigation Bar */
+/* navigation bar */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -22,7 +22,7 @@ body {
     font-size: 48px;
 }
 
-/* Span Tag */
+/* span tag */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -53,7 +53,7 @@ p {
     font-size: 16px;
 }
 
-/* Landing Page Image */
+/* hero image */
 .hero {
     height: 800px;
     width: 100%;
@@ -63,7 +63,7 @@ p {
     background-position: center;
 }
 
-/* Main Content */
+/* main content */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
@@ -93,7 +93,7 @@ p {
     margin-left: 20px;
 }
 
-/* Aside */
+/* aside */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -138,6 +138,7 @@ p {
     color: #ffffff;
 }
 
+/* footer */
 .footer {
     padding: 30px;
     clear: both;
