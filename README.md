@@ -2,7 +2,7 @@
 
 ## Description
 
-For this project we are refractoring the code for accessibility standards. We added comments and updated the HTML semantic. We solved the problem of individuals with disabilities being able to access the website using assistive technologies such as video captions, screen readers, and braille keyboards. 
+For this project we are refactoring the code for accessibility standards. We added comments and updated the HTML semantic. We solved the problem of individuals with disabilities being able to access the website using assistive technologies such as video captions, screen readers, and braille keyboards. 
 
 We learned the proper HTML semantic to use other than "div soup". We made sure that all the img tags have alt attributes for accessibility standards. 
 
